@@ -1,0 +1,30 @@
+body{
+    height: 100%;
+}
+
+section{
+    display: flex;
+   align-items: center;
+   justify-content: center;
+}
+
+#form {
+    padding: 2%;
+    text-align: center;
+    margin-top: 15%;
+    background-color: rgba(72, 0, 255, 0.399);
+    width: 30%;
+    border-radius: 5px;
+}
+
+input, button {
+    padding: 1.5%;
+    margin: 2%;
+    border-radius: 3px;
+    border-style: none;
+    background-color: rgba(151, 23, 242, 0.471);
+}
+
+button:hover{
+    background-color: blueviolet;
+}
