@@ -1,0 +1,144 @@
+{
+    "productos_construcción": [
+      {
+        "id": 1,
+        "nombre": "Taladro Inalámbrico DeWalt DCD791D2",
+        "descripción": "Taladro/destornillador inalámbrico de alto rendimiento para diversas tareas de perforación.",
+        "stock": 100,
+        "costo_uyu": 9.999
+      },
+      {
+        "id": 2,
+        "nombre": "Láser de Línea Cruzada Autonivelante Bosch GLL 30",
+        "descripción": "Nivel láser preciso para alineación precisa en trabajos de construcción.",
+        "stock": 50,
+        "costo_uyu": 3.999
+      },
+      {
+        "id": 3,
+        "nombre": "Multiherramienta Milwaukee 2626-20 M18",
+        "descripción": "Herramienta multiusos inalámbrica versátil para cortar, lijar y más.",
+        "stock": 75,
+        "costo_uyu": 6.499
+      },
+      {
+        "id": 4,
+        "nombre": "Kit Inalámbrico DeWalt XT612M 18V LXT",
+        "descripción": "Kit completo con herramientas eléctricas para diversas aplicaciones.",
+        "stock": 200,
+        "costo_uyu": 16.999
+      },
+      {
+        "id": 5,
+        "nombre": "Sierra Ingleteadora Compuesta DeWalt DWS780 de 12 Pulgadas",
+        "descripción": "Sierra ingleteadora de grado profesional para cortes de ángulo precisos.",
+        "stock": 30,
+        "costo_uyu": 21.999
+      },
+      {
+        "id": 6,
+        "nombre": "Motosierra Husqvarna 455 Rancher",
+        "descripción": "Motosierra potente para cortar árboles y troncos en obras de construcción.",
+        "stock": 60,
+        "costo_uyu": 11.999
+      },
+      {
+        "id": 7,
+        "nombre": "Set de Herramientas Eléctricas para Electricistas Klein Tools 80028",
+        "descripción": "Set completo de herramientas para trabajos eléctricos en obras de construcción.",
+        "stock": 90,
+        "costo_uyu": 7.999
+      },
+      {
+        "id": 8,
+        "nombre": "Sierra para Azulejos Húmeda Ridgid de 10 Pulgadas",
+        "descripción": "Sierra para azulejos para cortes precisos de azulejos y materiales cerámicos.",
+        "stock": 25,
+        "costo_uyu": 9.499
+      },
+      {
+        "id": 9,
+        "nombre": "Escalera de Extensión Werner D6228-2",
+        "descripción": "Escalera de extensión resistente para llegar a áreas elevadas en obras de construcción.",
+        "stock": 120,
+        "costo_uyu": 6.999
+      },
+      {
+        "id": 10,
+        "nombre": "Pico de Demolición Stanley FatMax Xtreme Fubar III",
+        "descripción": "Barra de demolición multipropósito para derribar estructuras.",
+        "stock": 15,
+        "costo_uyu": 1.999
+      },
+      {
+        "id": 11,
+        "nombre": "Martillo Rotativo Makita HR4013C de 1-9/16 Pulgadas",
+        "descripción": "Martillo rotativo para perforación y cincelado en concreto.",
+        "stock": 40,
+        "costo_uyu": 14.499
+      },
+      {
+        "id": 12,
+        "nombre": "Generador Portátil Rígido de 5700 Vatios",
+        "descripción": "Generador portátil para proporcionar energía en obras de construcción remotas.",
+        "stock": 70,
+        "costo_uyu": 19.999
+      },
+      {
+        "id": 13,
+        "nombre": "Medidor de Distancia Láser Bosch BLAZE GLM 50 C",
+        "descripción": "Medidor de distancia láser digital para mediciones precisas.",
+        "stock": 10,
+        "costo_uyu": 5.499
+      },
+      {
+        "id": 14,
+        "nombre": "Aspiradora Húmeda/Seca Fein Turbo II HEPA",
+        "descripción": "Aspiradora húmeda/seca HEPA para limpiar escombros en obras de construcción.",
+        "stock": 55,
+        "costo_uyu": 13.499
+      },
+      {
+        "id": 15,
+        "nombre": "Sierra de Hacksaw 5 en 1 DeWalt DWHT20547L",
+        "descripción": "Sierra de hacksaw versátil para cortar tubos de metal y plástico.",
+        "stock": 80,
+        "costo_uyu": 1.199
+      },
+      {
+        "id": 16,
+        "nombre": "Trompillo a Gasolina Wacker Neuson BS50-2i",
+        "descripción": "Trompillo a gasolina para compactar suelos y asfalto.",
+        "stock": 35,
+        "costo_uyu": 49.999
+      },
+      {
+        "id": 17,
+        "nombre": "Kit de Compresor de Aire Metabo HPT",
+        "descripción": "Kit de compresor de aire para alimentar herramientas neumáticas en el sitio.",
+        "stock": 50,
+        "costo_uyu": 6.499
+      },
+      {
+        "id": 18,
+        "nombre": "Llave de Impacto Inalámbrica Makita XWT11Z de 18V",
+        "descripción": "Llave de impacto para apretar y aflojar tuercas y pernos.",
+        "stock": 65,
+        "costo_uyu": 3.499
+      },
+      {
+        "id": 19,
+        "nombre": "Sierra Sable Inalámbrica Bosch GSA18V-083B",
+        "descripción": "Sierra sable inalámbrica para cortar madera y metal.",
+        "stock": 70,
+        "costo_uyu": 3.199
+      },
+      {
+        "id": 20,
+        "nombre": "Láser de Línea Autonivelante DeWalt DW088K",
+        "descripción": "Láser de línea compacto para alineación precisa y nivelación.",
+        "stock": 40,
+        "costo_uyu": 3.199
+      }
+    ]
+  }
