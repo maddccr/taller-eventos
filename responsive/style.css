@@ -1,0 +1,73 @@
+li a {
+    color: black;
+}
+
+.navbar{
+    position: static;
+}
+
+.dropdown-menu a{
+    text-decoration: underline;
+}
+
+#opciones{
+    width: 25%;
+    float: left;  /* para que las opciones esten al lado izquierdo del texto*/
+    margin-left: 4%;
+    margin-top: 1.2%;
+    border-radius: 5px;
+}
+
+#title {
+    margin: 3% auto; /* separar el titulo del navbar y el texto */
+}
+
+#div-text{
+    display: flex;  /* para los cambios en el layout uso el flex mode*/
+    flex-wrap: wrap;
+}
+
+#div-text .flex-item {
+    padding: 0.5% 2%;
+    margin-top: 2%; 
+    box-sizing: border-box; 
+    text-align: justify;
+  }
+
+ /* ajustes segun breakpoints*/
+
+@media only screen and (min-width: 992px) {    /*lg*/
+    #div-text .flex-item {
+        flex-basis: calc(33.33% - 20px); /*maximo tres elementos por fila*/
+    }
+
+    .nav-item-margin{
+        margin-left: 5em;
+    }
+  }
+
+@media (max-width: 991px){  /*md*/
+    #div-text .flex-item {
+        flex-basis: calc(50%); /*dos elementos por fila*/
+    }
+
+    .search-margin{
+        margin-top: 1%;
+    }
+
+    #div-text{
+        margin: auto 10%;
+    }
+  }
+
+@media (max-width: 767.98px){  /*sm*/
+    #div-text .flex-item {
+        flex-basis: calc(100%); /*un elemento por fila*/
+    }
+
+    #div-text{
+        margin: auto 2.5%;
+    }
+  }
+
+ 
